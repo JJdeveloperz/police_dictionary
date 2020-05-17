@@ -337,7 +337,7 @@ email_id_child="jagnetoo@gmail.com"
 email_id_police="gurjotbhatia04@gmail.com"
 location="/home/jagneto/Desktop/Meta/"
 # email_id_child_password=getpass.getpass("Enter password")
-email_id_child_password="1606728JJ"
+email_id_child_password="********"
 for i in range(1):
     bl=0
     p_words=[]
